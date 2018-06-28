@@ -12,3 +12,9 @@
 /Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/sandwich-shack.RazorTargetAssemblyInfo.cache
 /Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/sandwich-shack.dll
 /Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/sandwich-shack.pdb
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/sandwich-shack.TagHelpers.input.cache
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/sandwich-shack.TagHelpers.output.cache
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/sandwich-shack.RazorCoreGenerate.cache
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/Razor/Views/Account/AccountDetails.g.cshtml.cs
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/Razor/Views/Account/Login.g.cshtml.cs
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/sandwich-shack.RazorTargetAssemblyInfo.cs
