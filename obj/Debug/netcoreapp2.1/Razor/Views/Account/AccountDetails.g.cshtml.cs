@@ -14,7 +14,7 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.Rendering;
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"27256a2ea23135dac4fdcfd6f730a3b6f56c49e9", @"/Views/Account/AccountDetails.cshtml")]
-    public class Views_Account_AccountDetails : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<smoothie_shack.Models.User>
+    public class Views_Account_AccountDetails : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<sandwich_shack.Models.User>
     {
         #line hidden
         #pragma warning disable 0169
@@ -163,7 +163,7 @@ Write(Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }));
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
         public global::Microsoft.AspNetCore.Mvc.Rendering.IJsonHelper Json { get; private set; }
         [global::Microsoft.AspNetCore.Mvc.Razor.Internal.RazorInjectAttribute]
-        public global::Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<smoothie_shack.Models.User> Html { get; private set; }
+        public global::Microsoft.AspNetCore.Mvc.Rendering.IHtmlHelper<sandwich_shack.Models.User> Html { get; private set; }
     }
 }
 #pragma warning restore 1591
