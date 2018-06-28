@@ -1,0 +1,14 @@
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/sandwich-shack.csprojAssemblyReference.cache
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/sandwich-shack.csproj.CoreCompileInputs.cache
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/sandwich-shack.RazorAssemblyInfo.cache
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/sandwich-shack.RazorAssemblyInfo.cs
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/sandwich-shack.AssemblyInfoInputs.cache
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/sandwich-shack.AssemblyInfo.cs
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/bin/Debug/netcoreapp2.1/sandwich-shack.deps.json
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/bin/Debug/netcoreapp2.1/sandwich-shack.runtimeconfig.json
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/bin/Debug/netcoreapp2.1/sandwich-shack.runtimeconfig.dev.json
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/bin/Debug/netcoreapp2.1/sandwich-shack.dll
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/bin/Debug/netcoreapp2.1/sandwich-shack.pdb
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/sandwich-shack.RazorTargetAssemblyInfo.cache
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/sandwich-shack.dll
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/sandwich-shack.pdb
