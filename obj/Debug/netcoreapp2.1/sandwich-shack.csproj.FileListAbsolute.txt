@@ -18,3 +18,7 @@
 /Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/Razor/Views/Account/AccountDetails.g.cshtml.cs
 /Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/Razor/Views/Account/Login.g.cshtml.cs
 /Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/sandwich-shack.RazorTargetAssemblyInfo.cs
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/bin/Debug/netcoreapp2.1/sandwich-shack.Views.dll
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/bin/Debug/netcoreapp2.1/sandwich-shack.Views.pdb
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/sandwich-shack.Views.pdb
+/Users/madellinebutcher/source/CodeWorks/sandwich-shack/obj/Debug/netcoreapp2.1/sandwich-shack.csproj.CopyComplete
